@@ -11,7 +11,7 @@ This project is an attempt to understand this anomaly and to have a look at vote
 ### Libraries
 The election data has been taken from the publicly available data at TCPD in Ashoka University, and the demography data of Gujarat has been taken from the website chanakyya.com. Both the data are in CSV files in the project folder.
 NumPy, pandas, matplotlib, and sklearn are the libraries used. 
-#Code
+### Code
 The code consists of four functions other than the main function. Using the input method, the initiation of code prompts the user first to enter the year of elections between 2017 and 2022. Then it asks the user to select one of the four demographic features, namely “URBAN”, “RURAL”, “SC”, and “ST”. SC stands for scheduled caste, and ST stands for the scheduled tribe. One of these features would be the “basis” of regression analysis.
 The function year_party_basis (year, basis) will first merge the two CSV files on constituency number using pandas, then select the column to be used based on the feature set by the user input. It would also filter the rows based on the ‘year’ prompted by the user. It would return the data frame PARTY_BASIS_YEAR, with three columns, party, vote share percentage and one of the four demographic features selected by the user.
 The three other functions are based on the three parties. They would filter for their respective parties, train, test, and conduct linear regression analysis using the ordinary least square OLS method through sklearn. Also, the Pearson coefficient r and p-value shall be returned to the main function under these three functions. 80% of the data is used for training and 20% for testing.
