@@ -21,6 +21,6 @@ These charts indicate a correlation between the demographic feature selected and
 For example, in both elections, the charts clearly depict the decrease in BJP vote share as the rural votes in an assembly constituency increase and vice-versa. Similarly, SC votes increase also favours the Congress Party. Below are two figures. The first is Fig 2022 Rural and the second is Fig 2017 Rural.
 
 The anomaly in terms of a disproportionate jump in the number of seats compared to the increase in the percentage of Votes can be attributed to the presence of the AAP party in the 2022 elections. In rural areas, if we compare 2022 with 2017, we can see the impact of the AAP party in favour of the BJP.
-![Image description](https://github.com/makenajay/Gujarat_2022_Election/blob/5b6f6352e6d96299a99cd5baa0738259a08f5c4b/Fig 2022 RURAL.png)
+![Image description](https://github.com/makenajay/Gujarat_2022_Election/blob/master/Fig%202022%20RURAL.png)
 
 ![Image description](https://github.com/makenajay/Gujarat_2022_Election/blob/5b6f6352e6d96299a99cd5baa0738259a08f5c4b/Fig 2017 URBAN.png)
