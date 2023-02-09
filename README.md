@@ -18,6 +18,7 @@ The three other functions are based on the three parties. They would filter for 
 The main function shall print the summary statistics and scatter chart with linear regression for all three parties for comparative analysis. Also provided in the chart are details, such as the total average votes polled by each political party, the values of the r coefficient and the p-values.
 These charts indicate a correlation between the demographic feature selected and the political parties. 
 ### Assesment
-For example, in both elections, the charts clearly depict the decrease in BJP vote share as the rural votes in an assembly constituency increase and vice-versa. Similarly, SC votes increase also favours the Congress Party. 
-The anomaly in terms of a disproportionate jump in the number of seats compared to the increase in the percentage of Votes can be attributed to the presence of the AAP party in the 2022 elections. In rural areas, if we compare 2022 with 2017, we can see the impact of the AAP party in favour of the BJP.
+For example, in both elections, the charts clearly depict the decrease in BJP vote share as the rural votes in an assembly constituency increase and vice-versa. Similarly, SC votes increase also favours the Congress Party. Below are two figures. The first is Fig 2022 Rural and the second is Fig 2017 Rural.
 
+The anomaly in terms of a disproportionate jump in the number of seats compared to the increase in the percentage of Votes can be attributed to the presence of the AAP party in the 2022 elections. In rural areas, if we compare 2022 with 2017, we can see the impact of the AAP party in favour of the BJP.
+![Image description]('Fig 2022RURAL.png')
